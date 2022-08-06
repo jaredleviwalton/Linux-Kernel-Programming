@@ -60,3 +60,6 @@ stanly_reports*
 *.cache*
 *.bkp
 *.orig
+
+# kernel
+linux-*
